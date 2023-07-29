@@ -9,12 +9,11 @@ Skills: Python / Power BI / R / My SQL / MongoDB /  Keras / Tensor Flow / Machin
 - 🔭 I’m currently working on object detection (personal projects) 
 - 🌱 I’m currently learning AI, Deep Learning 
 - 📫 How to reach me: saarvin1211@gmail.com  
-- ⚡ Fun fact: I'm a self-proclaimed 'foodie explorer':pizza::pizza:
-
-## Example of Work
-https://drive.google.com/drive/folders/10tHt_FuYDT3AN_KE8RcjOe3JoeOc-te7?usp=sharing
+- ⚡ Fun fact: I'm a self-proclaimed 'foodie explorer':pizza::pizza: 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saarvin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saarvin-subramaniam-506601109//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saarvin97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saarvin-subramaniam-506601109//)  
 
-![Profile views](https://gpvc.arturio.dev/Saarvin)  
+
+
+
