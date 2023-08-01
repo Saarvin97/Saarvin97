@@ -17,6 +17,23 @@ https://drive.google.com/drive/folders/10tHt_FuYDT3AN_KE8RcjOe3JoeOc-te7?usp=sha
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Saarvin97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/saarvin-subramaniam-506601109/)  
 
+## Tools and Software
 
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block"></h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,mongodb,mysql,matlab,py,r,tensorflow,vscode&perline=14" />
+  </a>
+</p>
 
 
