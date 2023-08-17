@@ -6,7 +6,7 @@ I'm Saarvin from Malaysia, and I just graduated from my Masters Degree studies. 
 
 Skills: Python / Power BI / R / My SQL / MongoDB /  Keras / Tensor Flow / Machine Learning / Deep Learning
 
-- 🔭 I’m currently working on object detection (personal projects) 
+- 🔭 I’m currently working on using CNN and LSTM model in analyzing my Valorant gameplay video (personal projects) 
 - 🌱 I’m currently learning AI, Deep Learning 
 - 📫 How to reach me: saarvin1211@gmail.com  
 - ⚡ Fun fact: I'm a self-proclaimed 'foodie explorer':pizza::pizza:
