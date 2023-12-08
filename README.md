@@ -10,7 +10,7 @@ Skills: Python / Power BI / R / My SQL / MongoDB /  Keras / Tensor Flow / Machin
 - 🔭 I’m currently working on using CNN and LSTM model in analyzing my Valorant gameplay video (personal projects) 
 - 🌱 I’m currently learning AI, Deep Learning 
 - 📫 How to reach me: saarvin1211@gmail.com  
-- ⚡ Fun fact: I'm a self-proclaimed 'foodie explorer':pizza::pizza:
+- ⚡ Fun fact: I'm a self-proclaimed 'foodie explorer'🍕🍕
 
 ## Example of Work
 https://drive.google.com/drive/folders/10tHt_FuYDT3AN_KE8RcjOe3JoeOc-te7?usp=sharing
